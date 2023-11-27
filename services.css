@@ -1,0 +1,413 @@
+.services-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: flex-start;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.services-text001 {
+  color: #fb1515;
+  background-color: rgb(10, 175, 192);
+}
+.services-text002 {
+  color: #fb1515;
+  background-color: rgb(10, 175, 192);
+}
+.services-text003 {
+  color: #0510ec;
+}
+.services-text004 {
+  color: #0510ec;
+}
+.services-text005 {
+  color: #0510ec;
+}
+.services-text006 {
+  color: #0510ec;
+}
+.services-text007 {
+  color: #0510ec;
+}
+.services-text008 {
+  color: #0510ec;
+}
+.services-text009 {
+  color: #0510ec;
+}
+.services-text010 {
+  color: #0510ec;
+}
+.services-text011 {
+  color: #0510ec;
+}
+.services-text012 {
+  color: #0510ec;
+}
+.services-text013 {
+  color: #0510ec;
+}
+.services-text014 {
+  color: #0510ec;
+}
+.services-text015 {
+  color: #0510ec;
+}
+.services-text016 {
+  color: #0510ec;
+}
+.services-text017 {
+  color: #0510ec;
+}
+.services-text018 {
+  color: #0510ec;
+}
+.services-text019 {
+  color: #0510ec;
+}
+.services-text020 {
+  color: #0510ec;
+}
+.services-text021 {
+  color: #0510ec;
+}
+.services-text022 {
+  color: #0510ec;
+}
+.services-text023 {
+  color: #0510ec;
+}
+.services-text024 {
+  color: #0510ec;
+}
+.services-text025 {
+  color: #0510ec;
+}
+.services-text026 {
+  color: #0510ec;
+}
+.services-text027 {
+  color: #0510ec;
+}
+.services-text028 {
+  color: #0510ec;
+}
+.services-text029 {
+  color: #0510ec;
+}
+.services-text030 {
+  color: #0510ec;
+}
+.services-text031 {
+  color: #0510ec;
+}
+.services-text032 {
+  color: #0510ec;
+}
+.services-text033 {
+  color: #0510ec;
+}
+.services-text034 {
+  color: #0510ec;
+}
+.services-text035 {
+  color: #0510ec;
+}
+.services-text036 {
+  color: #0510ec;
+}
+.services-text037 {
+  color: #0510ec;
+}
+.services-text038 {
+  color: #0510ec;
+}
+.services-text039 {
+  color: #0510ec;
+}
+.services-text040 {
+  color: #0510ec;
+}
+.services-text041 {
+  color: #0510ec;
+}
+.services-text042 {
+  color: #0510ec;
+}
+.services-text043 {
+  color: #0510ec;
+}
+.services-text044 {
+  color: #0510ec;
+}
+.services-text045 {
+  color: #0510ec;
+}
+.services-text046 {
+  color: #0510ec;
+}
+.services-text047 {
+  color: #0510ec;
+}
+.services-text048 {
+  color: #0510ec;
+}
+.services-text049 {
+  color: #0510ec;
+}
+.services-text050 {
+  color: #0510ec;
+}
+.services-text051 {
+  color: #0510ec;
+}
+.services-text052 {
+  color: #0510ec;
+}
+.services-text053 {
+  color: #0510ec;
+}
+.services-text054 {
+  color: #0510ec;
+}
+.services-text055 {
+  color: #0510ec;
+}
+.services-text056 {
+  color: #0510ec;
+}
+.services-text057 {
+  color: #0510ec;
+}
+.services-text058 {
+  color: #0510ec;
+}
+.services-text059 {
+  color: #0510ec;
+}
+.services-text060 {
+  color: #0510ec;
+}
+.services-text061 {
+  color: #0510ec;
+}
+.services-text062 {
+  color: #0510ec;
+}
+.services-text063 {
+  color: #0510ec;
+}
+.services-text064 {
+  color: #0510ec;
+}
+.services-text065 {
+  color: #0510ec;
+}
+.services-text066 {
+  color: #0510ec;
+}
+.services-text067 {
+  color: #0510ec;
+}
+.services-text068 {
+  color: #0510ec;
+}
+.services-text069 {
+  color: #0510ec;
+}
+.services-text070 {
+  color: #0510ec;
+}
+.services-text071 {
+  color: #0510ec;
+}
+.services-text072 {
+  color: #0510ec;
+}
+.services-text073 {
+  color: #0510ec;
+}
+.services-text074 {
+  color: #0510ec;
+}
+.services-text075 {
+  color: #0510ec;
+}
+.services-text076 {
+  color: #0510ec;
+}
+.services-text077 {
+  color: #0510ec;
+}
+.services-text078 {
+  color: #0510ec;
+}
+.services-text079 {
+  color: #0510ec;
+}
+.services-text080 {
+  color: #0510ec;
+}
+.services-text081 {
+  color: #0510ec;
+}
+.services-text082 {
+  color: #0510ec;
+}
+.services-text083 {
+  color: #0510ec;
+}
+.services-text084 {
+  color: #0510ec;
+}
+.services-text085 {
+  color: #0510ec;
+}
+.services-text086 {
+  color: #0510ec;
+}
+.services-text087 {
+  color: #0510ec;
+}
+.services-text088 {
+  color: #0510ec;
+}
+.services-text089 {
+  color: #0510ec;
+}
+.services-text090 {
+  color: #0510ec;
+}
+.services-text091 {
+  color: #0510ec;
+}
+.services-text092 {
+  color: #0510ec;
+}
+.services-text093 {
+  color: #0510ec;
+}
+.services-text094 {
+  color: #0510ec;
+}
+.services-text095 {
+  color: #0510ec;
+}
+.services-text096 {
+  color: #0510ec;
+}
+.services-text097 {
+  color: #0510ec;
+}
+.services-text098 {
+  color: #0510ec;
+}
+.services-text099 {
+  color: #0510ec;
+}
+.services-text100 {
+  color: #0510ec;
+}
+.services-text101 {
+  color: #0510ec;
+}
+.services-text102 {
+  color: #0510ec;
+}
+.services-text103 {
+  color: #0510ec;
+}
+.services-text104 {
+  color: #0510ec;
+}
+.services-text105 {
+  color: #0510ec;
+}
+.services-text106 {
+  color: #0510ec;
+}
+.services-text107 {
+  color: #0510ec;
+}
+.services-text108 {
+  color: #0510ec;
+}
+.services-text109 {
+  color: #0510ec;
+}
+.services-text110 {
+  color: #0510ec;
+}
+.services-text111 {
+  color: #0510ec;
+}
+.services-text112 {
+  color: #0510ec;
+}
+.services-text113 {
+  color: #0510ec;
+}
+.services-text114 {
+  color: #0510ec;
+}
+.services-text115 {
+  color: #0510ec;
+}
+.services-text116 {
+  color: #0510ec;
+}
+.services-text117 {
+  color: #0510ec;
+}
+.services-text118 {
+  color: #0510ec;
+}
+.services-text119 {
+  color: #0510ec;
+}
+.services-text120 {
+  color: #0510ec;
+}
+.services-text121 {
+  color: #0510ec;
+}
+.services-text122 {
+  color: #0510ec;
+}
+.services-text123 {
+  color: #0510ec;
+}
+.services-text124 {
+  color: #0510ec;
+}
+.services-text125 {
+  color: #0510ec;
+}
+.services-text126 {
+  color: #0510ec;
+}
+.services-text127 {
+  color: #0510ec;
+}
+.services-text128 {
+  color: #0510ec;
+}
+.services-text129 {
+  color: #0510ec;
+}
+.services-text130 {
+  color: #0510ec;
+}
+.services-text131 {
+  color: #0510ec;
+}
+.services-text132 {
+  color: #0510ec;
+}
+.services-text133 {
+  color: #0510ec;
+}
+.services-text134 {
+  color: #0510ec;
+}

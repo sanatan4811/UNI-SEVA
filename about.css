@@ -1,0 +1,31 @@
+.about-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+.about-text {
+  top: 15px;
+  left: 455px;
+  color: #e81212;
+  position: absolute;
+}
+.about-iframe {
+  width: 974px;
+  height: 516px;
+}
+@media(max-width: 767px) {
+  .about-iframe {
+    width: 758px;
+    height: 425px;
+  }
+}
+@media(max-width: 479px) {
+  .about-iframe {
+    width: 478px;
+    height: 276px;
+  }
+}
